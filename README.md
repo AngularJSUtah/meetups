@@ -21,3 +21,10 @@ This repo is a place for EVERYONE to **propose** and **vote on** topics for upco
 2. Leave a comment volunteering to speak on the subject and explaining why you want to speak on it.
 3. An admin will add you to the topic title.
 
+<br />
+<br />
+Thanks for helping make AWESOMENESS happen!
+<br />
+<br />
+
+![AngularJS Utah Logo](https://avatars1.githubusercontent.com/u/12480044?v=3&s=200)
