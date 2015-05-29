@@ -2,7 +2,7 @@
 
 Welcome to AngularJS Utah's GitHub happy place!
 
-This repo is a place for EVERYONE to vote on and propose new topics for upcoming meetups. If you want to RSVP for a meetup, go to [http://www.meetup.com/AngularJS-Utah/](http://www.meetup.com/AngularJS-Utah/).
+This repo is a place for EVERYONE to vote on and propose new topics for upcoming meetups. If, instead, you are looking to RSVP for a meetup, go to [http://www.meetup.com/AngularJS-Utah/](http://www.meetup.com/AngularJS-Utah/).
 
 <hr />
 
