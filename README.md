@@ -11,12 +11,12 @@ This repo is a place for EVERYONE to **propose** and **vote on** topics for upco
 2. Create a new "Issue" (e.g. Meeting Topic)
 3. Set the title to **"[COOL_TALK_TITLE_GOES_HERE]"**, followed by your name if you are volunteering to speak on the topic.
 
-### How to Vote for a talk:
+### How to Vote for a talk or topic:
 1. Find a topic that you are interested in on the [Issues](https://github.com/AngularJSUtah/meetups/issues) page.
 2. Vote up with a `:+1:` (:+1:)
 3. JOIN the discussion about the topic. Give constructive feedback and suggestions! Help build each other and the community!
 
-### How to Volunteer for an existing topic:
+### How to Volunteer for a proposed topic:
 1. Find a topic that you are interested in on the [Issues](https://github.com/AngularJSUtah/meetups/issues) page.
 2. Leave a comment volunteering to speak on the subject and explaining why you want to speak on it.
 3. An admin will add you to the topic title.
