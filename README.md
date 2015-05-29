@@ -2,11 +2,9 @@
 
 Welcome to AngularJS Utah's GitHub happy place!
 
-This repo is a place for EVERYONE to **propose** and **vote on** topics for upcoming meetups. If, instead, you are looking to RSVP for a meetup, go to [http://www.meetup.com/AngularJS-Utah/](http://www.meetup.com/AngularJS-Utah/).
-
-<hr />
-
 Managing a meetup takes is a community effort!  We are trying to get more community involvement in choosing speakers and topics for our meetups.  What better way than creating a "Meetup Repository of Awesomeness"?!
+
+This repo is a place for EVERYONE to **propose** and **vote on** topics for upcoming meetups. If, instead, you are looking to RSVP for a meetup, go to [http://www.meetup.com/AngularJS-Utah/](http://www.meetup.com/AngularJS-Utah/).
 
 ### How to Submit a talk OR Suggest a topic:
 1. Go to the [Issues](https://github.com/AngularJSUtah/meetups/issues) page for this repository.
