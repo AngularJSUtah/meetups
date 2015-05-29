@@ -15,7 +15,7 @@ Managing a meetup takes is a community effort!  We are trying to get more commun
 
 ### How to Vote for a talk:
 1. Find a topic that you are interested in on the [Issues](https://github.com/AngularJSUtah/meetups/issues) page.
-2. Comment with a `:+1:` (:+1:)
+2. Vote up with a `:+1:` (:+1:)
 3. JOIN the discussion about the topic. Give constructive feedback and suggestions! Help build each other and the community!
 
 ### How to Volunteer for an existing topic:
